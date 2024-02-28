@@ -1,0 +1,4 @@
+Network Name ::: PulseChain Testnet v4
+RPC URL :::  https://rpc.v4.testnet.pulsechain.com
+Chain ID ::: 943
+Currency Symbol :::  tPLS

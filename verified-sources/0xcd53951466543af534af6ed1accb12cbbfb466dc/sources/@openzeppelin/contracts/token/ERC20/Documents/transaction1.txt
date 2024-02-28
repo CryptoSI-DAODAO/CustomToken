@@ -1,0 +1,37 @@
+status	true Transaction mined and execution succeed
+transaction hash	0xff22108273824b1eb28ee0033d6df3b89f60b72b617a052812dd9a9e71e60f8f
+from	0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1
+to	ENGcoin.(constructor)
+gas	1060058 gas
+transaction cost	883382 gas 
+input	0x608...70033
+decoded input	{}
+decoded output	 - 
+logs	[
+	{
+		"from": "0x76E2E01749D3594CaDC97a384e3e6a9a64d3F702",
+		"topic": "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0",
+		"event": "OwnershipTransferred",
+		"args": {
+			"0": "0x0000000000000000000000000000000000000000",
+			"1": "0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1",
+			"previousOwner": "0x0000000000000000000000000000000000000000",
+			"newOwner": "0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1"
+		}
+	},
+	{
+		"from": "0x76E2E01749D3594CaDC97a384e3e6a9a64d3F702",
+		"topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+		"event": "Transfer",
+		"args": {
+			"0": "0x0000000000000000000000000000000000000000",
+			"1": "0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1",
+			"2": "50000000000000000000000",
+			"from": "0x0000000000000000000000000000000000000000",
+			"to": "0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1",
+			"value": "50000000000000000000000"
+		}
+	}
+]
+val	0 wei
+ 0x70F5cE44C2580E8B41C3126B14b3AA687e6b4bF1
